@@ -1,2 +1,2 @@
 # first-demo-project
-Jenkins CI
+Jenkins CI Practise
